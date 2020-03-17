@@ -1,0 +1,3 @@
+/home/juanma/CLionProjects/MandoPS4XBOX/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/juanma/CLionProjects/MandoPS4XBOX/cmake-build-debug/CMakeFiles/MandoPS4XBOX.dir
+/home/juanma/CLionProjects/MandoPS4XBOX/cmake-build-debug/CMakeFiles/edit_cache.dir

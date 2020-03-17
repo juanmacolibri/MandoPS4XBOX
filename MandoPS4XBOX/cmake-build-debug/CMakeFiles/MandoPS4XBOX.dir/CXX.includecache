@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/juanma/CLionProjects/MandoPS4XBOX/main.cpp
+GL/glew.h
+-
+GLFW/glfw3.h
+-
+iostream
+-
+cstdlib
+-
+string.h
+-
+stdio.h
+-
+

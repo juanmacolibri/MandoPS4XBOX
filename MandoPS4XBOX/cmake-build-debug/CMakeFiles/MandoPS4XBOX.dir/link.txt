@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/MandoPS4XBOX.dir/main.cpp.o  -o MandoPS4XBOX -lglfw -lGL -lGLEW -lX11 -lpthread -lXrandr -lXi 
